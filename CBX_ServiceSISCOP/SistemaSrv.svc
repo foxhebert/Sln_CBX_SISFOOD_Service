@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CBX_ServiceSISCOP.SistemaSrv" CodeBehind="SistemaSrv.svc.cs" %>
